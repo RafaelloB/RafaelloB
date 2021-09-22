@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+⬇️ ㅤ Contact/Social Media ㅤ ⬇️
+ ㅤhttps://linktr.ee/RafaelloB
+
 <!--
 **RafaelloB/RafaelloB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-⬇️ ㅤ Contact/Social Media ㅤ ⬇️
- ㅤhttps://linktr.ee/RafaelloB
